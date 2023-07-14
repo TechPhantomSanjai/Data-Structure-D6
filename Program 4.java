@@ -11,14 +11,15 @@ class UserMainCode
  while(d<=input1){
  for(i=2;i<k/2;i++){
  if(k%i==0){
- c++:
+ c++;
  }
  if(c==0){
  d++;
- p=k:
+ p=k;
  }
- k++:
+ k++;
  c=0;
+ }
  return p;
  }
 }
